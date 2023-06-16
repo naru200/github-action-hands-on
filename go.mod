@@ -1,4 +1,4 @@
-module naru200/github-action-hands-on
+module naru200/github-actions-hands-on
 
 go 1.20
 
